@@ -6,7 +6,7 @@
 
 ---
 
-### 💬 My Discord Profil
+### 💬 My Discord Profile
 
 | **Discord Status** | **User Info** |
 | :--- | :--- |
