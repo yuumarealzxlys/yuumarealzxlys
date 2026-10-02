@@ -41,8 +41,8 @@
 ---
 
 ### 📊 My Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AidenHeavensXD&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AidenHeavensXD&layout=compact&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yuumarealzxlys&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuumarealzxlys&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
